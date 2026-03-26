@@ -43,5 +43,12 @@ Projeto desenvolvido em ambiente laboratorial com base em cenário simulado de a
 
 ---
 
+## 📂 Estrutura
+
+- `/docs` → relatório completo do projeto  
+- `/images` → evidências e capturas de ecrã
+
+---
+
 ## 👩‍💻 Autora
 Roberta Tramontina  
