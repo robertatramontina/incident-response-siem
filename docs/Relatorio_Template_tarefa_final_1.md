@@ -45,7 +45,7 @@ Durante a fase inicial do incidente foram identificadas múltiplas tentativas de
 ### Evidências (Screenshots)
 
 **Screenshot 1 – AbuseIPDB (185.220.101.45) – Visão Geral**  
-![L0a_S1_AbuseIPDB_185.220.101.45](images/L0a_S1_AbuseIPDB_185.220.101.45.png)
+![L0a_S1_AbuseIPDB_185.220.101.45](L0a_S1_AbuseIPDB_185.220.101.45.png)
 
 **Screenshot 2 – AbuseIPDB (185.220.101.45) – Reports**  
 ![L0a_S2_AbuseIPDB_185.220.101.45](L0a_S2_AbuseIPDB_185.220.101.45.png)
